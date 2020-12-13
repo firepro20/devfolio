@@ -20,6 +20,7 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
+    "build": "^0.1.4",
     "flickity": "^2.2.1",
     "flickity-imagesloaded": "^2.0.0"
   }
